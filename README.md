@@ -2,9 +2,9 @@
 
 Bienvenue sur ce projet Power BI qui présente une analyse complète des demandes de crédit et du parcours client d’une banque.
 
-Nom :TENUDA-EKLOU Afi 
-Contact:afitenuda@gmail.com    
-Linkden : https://www.linkedin.com/in/afi-tenuda-eklou-832101219/
+-Nom :TENUDA-EKLOU Afi 
+-Contact:afitenuda@gmail.com    
+-Linkden : https://www.linkedin.com/in/afi-tenuda-eklou-832101219/
 ---
 
 ## 🎥 Démo vidéo
