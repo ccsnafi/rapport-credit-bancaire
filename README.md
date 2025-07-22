@@ -42,7 +42,7 @@ Ce rapport Power BI comprend :
 - Scoring de risque crédit (faible, modéré, élevé)
 - Fidélité client (nombre de crédits antérieurs)
 - Détail et scoring individuels
-
+- - ![Accueil](parcours_et_risque_credit.png)
 ---
 
 ## ⚙️ Utilisation
