@@ -34,6 +34,8 @@ Ce rapport Power BI comprend :
 - Distribution et analyse des montants accordés
 - Montant moyen par logement, par tranche de revenu
 - Détail par client
+- [analyse ](analyse_des_demande.png)
+
 
 ### 4️⃣ **Parcours client & Risque crédit**
 - Taux de refus par type de contrat/âge
