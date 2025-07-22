@@ -29,6 +29,7 @@ Ce rapport Power BI comprend :
 
 ### 2️⃣ **Répartition des demandes**
 - Segmentation clients : sexe, tranche de revenu, statut familial, tranche d’âge, possession voiture/immobilier
+-  ![Accueil](repartition_des_demandes.png)
 
 ### 3️⃣ **Analyse des montants de crédit**
 - Distribution et analyse des montants accordés
