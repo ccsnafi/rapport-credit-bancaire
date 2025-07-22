@@ -25,7 +25,7 @@ Ce rapport Power BI comprend :
 ### 1️⃣ **Page d’Accueil**
 - Les KPIs essentiels : nombre de clients, demandes, taux d’acceptation, montant total accordé
 - Filtrage dynamique (ex : par sexe)
-- ![Accueil](img/acceuil.png)
+- ![Accueil](READ_ME/acceuil.png)
 
 ### 2️⃣ **Répartition des demandes**
 - Segmentation clients : sexe, tranche de revenu, statut familial, tranche d’âge, possession voiture/immobilier
